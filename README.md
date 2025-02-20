@@ -1,5 +1,5 @@
 > Important !!
-> This Project is now under [SWoC](https://www.socialwinterofcode.com). Contributors from there feel free to open issues and tag me for help. For any collaboration feel free to contact [Priyanshu Verma](https://www.linkedin.com/in/priyanshu-verma-dev/)
+> Project is shutting down as it was just a side project.
 
 
 # EduNotify
