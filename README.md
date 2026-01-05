@@ -1,5 +1,5 @@
-> Important !!
-> Project is shutting down as it was just a side project.
+> Important
+> Project is not active but contributors are welcomed.
 
 
 # EduNotify
@@ -14,8 +14,6 @@ EduNotify is a web application designed to provide a notice board feature for ed
 - **Real-Time Updates**: Seamless updates and notifications when new notices are added or existing ones are modified.
 - **Responsive Design**: Fully responsive design ensuring a consistent experience across devices.
 
-
-[![Demo Video](https://img.youtube.com/vi/I2KNavXwWV8/0.jpg)](https://www.youtube.com/embed/I2KNavXwWV8)
 ## Technologies Used
 
 - **Permit.io**: Provides fine-grained access control with a flexible permission system.
@@ -79,4 +77,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contributors
-- Priyanshu Verma ([@priyanshuverma-dev](https://github.com/priyanshuverma-dev))
+- Priyanshu Verma ([@PriyanshuPz](https://github.com/PriyanshuPz))
