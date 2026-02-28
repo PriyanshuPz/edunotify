@@ -1,5 +1,6 @@
 > Important
-> Project is not active but contributors are welcomed.
+> Project is not active and archiving for now.
+> Thanks for contributions
 
 
 # EduNotify
